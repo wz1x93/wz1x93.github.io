@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 # paper1
+
+help writing-on-github(https://docs.github.com/en/github/writing-on-github)
 ```
 
 ```markdown
