@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
@@ -21,3 +24,10 @@ public:
         return res;
     }
 };
+
+int main(){
+    vector<int> inputs = {1,2,3,4,5};
+    Solution solu;
+    int res = solu.largestRectangleArea(inputs);
+    cout << res << endl;
+}
