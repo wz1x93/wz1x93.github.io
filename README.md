@@ -17,6 +17,9 @@ help [wz](https://docs.github.com/en/github/writing-on-github)
 
 ![wz](https://github.com/wz1x93/wz1x93.github.io/blob/ad987aac93766e5859c11c2460ab5204bc7a399d/leetcode/0084.png?raw=true)
 
+![0084](https://user-images.githubusercontent.com/96565615/148152094-6ec94256-2cc4-4470-ad56-994848aafbb4.png)
+
+
 ```markdown
 Syntax highlighted code block
 
