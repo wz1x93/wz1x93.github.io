@@ -1,5 +1,3 @@
-![wz](https://github.com/wz1x93/wz1x93.github.io/blob/ad987aac93766e5859c11c2460ab5204bc7a399d/leetcode/0084.png)
-
 #include <iostream>
 #include <vector>
 
