@@ -1,9 +1,9 @@
 # 数组（array）
 
 # 树（Tree）
-|难易|编号|类型|描述|方法|实现|
+|难易|编号|类型|描述|方法|
 |--|--|--|--|--|--|--|
-|简单|94|二叉树中序遍历|0094-binary-tree-inorder-traversal|递归|1|
+|简单|94|二叉树中序遍历|0094-binary-tree-inorder-traversal|递归|
 
 
 |中等|96|不同的二叉搜索树|0096-unique-binary-search-trees|动态规划|1|
