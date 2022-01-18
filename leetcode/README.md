@@ -10,6 +10,7 @@
 |中等|102|二叉树的层序遍历|binary-tree-level-order-traversal|BFS|1|
 |简单|104|二叉树最大深度|maximum-depth-of-binary-tree|BFS|1|
 |中等|105|从前序与中序遍历序列构造二叉树|construct-binary-tree-from-preorder-and-inorder-traversal|BFS|未理解|
+|中等|114|二叉树展开为链表|flatten-binary-tree-to-linked-list|前序遍历|查阅完成|
 
 # 栈（stack）
 
