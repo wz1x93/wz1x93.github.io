@@ -13,6 +13,8 @@
 |中等|114|二叉树展开为链表|flatten-binary-tree-to-linked-list|前序遍历|查阅完成|
 |简单|114|买卖股票的最佳时机|best-time-to-buy-and-sell-stock|遍历|自己完成|
 |困难|124|二叉树中的最大路径|binary-tree-maximum-path-sum|递归|未理解|
+|中等|128|最长连续序列|longest-consecutive-sequence|滑动窗口|自己完成|
+|简单|136|只出现一次的数字|single-number|滑动窗口|自己完成|
 
 # 栈（stack）
 
